@@ -136,7 +136,7 @@
     "hsv2rgb": "^1.1.0",
     "i18n-js": "^3.1.0",
     "lottie-react-native": "^7.3.4",
-    "moment": "^2.29.4",
+    "moment": "^2.31.0",
     "path": "^0.12.7",
     "pixi.js": "^4.6.1",
     "processing-js": "^1.6.6",
@@ -164,7 +164,7 @@
     "victory-native": "^37.0.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.23.7",
+    "@babel/core": "^8.0.6",
     "@types/fbemitter": "^2.0.32",
     "@types/i18n-js": "^3.0.1",
     "@types/pixi.js": "^4.8.6",

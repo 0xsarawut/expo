@@ -62,7 +62,7 @@
     "expo-updates": "~55.0.7",
     "expo-web-browser": "~55.0.5",
     "graphql": "^15.3.0",
-    "immutable": "^4.0.0",
+    "immutable": "^4.3.9",
     "lottie-react-native": "^7.3.4",
     "react": "19.2.0",
     "react-native": "0.83.1",

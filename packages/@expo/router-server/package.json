@@ -59,7 +59,7 @@
     }
   },
   "devDependencies": {
-    "react-server-dom-webpack": "~19.0.1",
+    "react-server-dom-webpack": "~19.0.8",
     "tsd": "^0.28.1"
   },
   "dependencies": {
