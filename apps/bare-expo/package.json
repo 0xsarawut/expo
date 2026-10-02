@@ -83,7 +83,7 @@
     "test-suite": "*"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0",
+    "@babel/core": "^8.0.6",
     "@types/react": "~19.2.0",
     "babel-preset-expo": "~55.0.4",
     "expo-module-scripts": "^55.0.2",
